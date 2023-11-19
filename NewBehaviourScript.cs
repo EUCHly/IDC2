@@ -8,7 +8,8 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         print("hello PIBLS");
-        print("кто прочитал, тот PIBL!!!!");
+        print("ГЄГІГ® ГЇГ°Г®Г·ГЁГІГ Г«, ГІГ®ГІ PIBL!!!!");
+        print ("hell for all");
     }
 
     // Update is called once per frame
